@@ -1,6 +1,6 @@
 {
     "description": "Standard Peripheral Library for GD32 MCUs",
-    "name": "framework-gd32-spl",
+    "name": "framework-gd32-fwlib",
     "system": "all",
     "url": "http://www.gd32mcu.com/en/download/",
     "version": "3.00000.4"
